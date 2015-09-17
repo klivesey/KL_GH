@@ -3,7 +3,7 @@
 Change Log
 Author    Date:       Change:             Reason:
 
----------------------------------------------------------
+--------------------------------------------------------- 
 Python Scripting Activity
 For Instructor: 
 Author: Ken Livesey
